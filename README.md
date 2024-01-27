@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 3. Run the app
 ```bash
-streamlit run Tracking.py
+streamlit run Tracking.py  ( Run in visual studio code will not error)
 ```
 
 ## Usage
@@ -78,5 +78,3 @@ streamlit run Tracking.py
 
 4. Deployed app on Streamlit Cloud. [Click here](https://datct00-face-recognition-app-using-streamlit-tracking-sel9ym.streamlit.app/) to watch a demo of the app.
 
-## Contact
-If you have any questions, feel free to contact me via email: `chungtiendat8102000@gmail.com`
